@@ -1,0 +1,66 @@
+body{
+    font-family: Arial;
+    padding-top: 60px;
+    padding-left: 75px;
+}
+
+
+
+.video-preview{
+   
+
+}
+
+.image{
+    width: 100%;
+    margin-bottom: 4px;
+ 
+
+}
+
+
+.thumbnail-row{
+    
+    margin-bottom: 12;
+    position: relative;
+
+}
+
+
+.video-time{
+
+    font-family: arial;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 14px;
+    right: 8px;
+    border-radius: 3px;
+
+}
+
+
+.video-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.channel{
+    font-size: 15px;
+    color: rgb(96, 96, 96);
+    margin-top: 0px;
+    margin-bottom: 4px;
+
+}
+
+.video-stats{
+    font-size: 15px;
+    color: rgb(96, 96, 96);
+    margin-top: 0px;
+}
+
+
+
